@@ -23,12 +23,13 @@
   "authors": [
     "Dzmitry_Shaplyka@epam.com",
     "Oleksandr_Halichenko@epam.com",
-    "John_Doe@epam.com"
+    "John_Doe@epam.com",
+    "polgreine@gmail.com"
   ],
   "license": "ISC",
   "dependencies": {
     "chai": "^4.2.0",
-    "mocha": "^7.0.1",
+    "mocha": "^10.2.0",
     "node-fetch": "^2.6.0",
     "sinon": "latest"
   }
